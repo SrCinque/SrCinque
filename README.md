@@ -27,8 +27,7 @@
   <a href = "mailto:filipe.cinque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/filipe-amaro-8a5b97207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-
-  ![Snake animation](https://github.com/SrCinque/SrCinque/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SrCinque/SrCinque/blob/output/github-contribution-grid-snake.svg)
 
   
   
